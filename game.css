@@ -1,0 +1,79 @@
+.bg {
+    margin-left: -10px;
+    margin-right: -10px;
+}
+img{
+    height: 200px;
+    width: 300px;
+}
+td{
+    border: 2px;
+    border-style: dotted;
+    border-color: lightyellow;
+}
+a:link{ text-decoration: none;}
+a:hover{color: cyan;}
+h2{
+    text-align: center;
+}
+p{
+    text-align: justify;
+}
+html{
+    background-image:url(images/p9.jpg)
+}
+p{
+    color: lightgreen;
+}
+p:hover{ background-color:lightcoral ; }
+#third {
+    background-color: grey;
+    margin-top: -400px;
+    margin-left: -10px;
+    margin-right: -20px;
+}
+a:link {
+    text-decoration: none;
+    text-decoration-color: darksalmon;
+}
+a:active{ color: lightcoral}
+.A {
+
+    font-size: larger;
+    padding: 10px;
+    border: 0px;
+    
+}
+a {
+    color: coral;
+}
+
+a:active{ color: lightcoral}       
+.A:hover {
+    background-color: cyan;
+}
+#Main {
+    background-color: dimgrey;
+    margin-top: -20px;
+    margin-left: -20px;
+    margin-bottom: 400px;
+    margin-right: -30px;
+
+}
+.WN {
+    margin-top: 20px;
+    margin-left: 25px;
+    margin-right: -30px;
+    color: cyan;
+    font-family: monospace;
+    font-weight: 300;
+}
+h2{
+    color: aqua;
+}
+h3{
+    color: aqua;
+}
+#b{
+    border: 0px;
+}
